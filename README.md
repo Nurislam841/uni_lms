@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # UniLMS — Academic Management Platform
 
 Full-stack Learning Management System built with **Next.js 14**, **NestJS**, **Prisma**, **PostgreSQL**, and **Tailwind CSS**.
@@ -275,3 +276,6 @@ uni-lms/
 | AI         | Anthropic Claude (`claude-opus-4-6`), SSE streaming, Zod validation |
 | Testing    | Jest + Supertest                        |
 | Packaging  | pnpm workspaces (monorepo)              |
+=======
+# uni_lms
+>>>>>>> f8aae7e0612de50b1512eb6612e91914df3794a9
